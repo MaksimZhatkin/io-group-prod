@@ -13,4 +13,4 @@ She is a test exercise from the company "Io-group".
 * Input customization (checkboxes and sliders)
 * About .sh scripts, how write and start them
 
-**Link: https://maksimzhatkin.github.io/io-group/
+**Link: https://maksimzhatkin.github.io/io-group/**
