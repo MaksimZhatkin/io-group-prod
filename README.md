@@ -1,11 +1,11 @@
-#My first Vue.js project
+# My first Vue.js project
 
 
-##About
+## About
 Simple project writen in Vue.js framework. It form for programmer talking about his skills.
 She is a test exercise from the company "Io-group".
 
-##What i learned? 
+## What i learned? 
 * A lot about the work of frameworks 
 * Vue(CLI) basics
 * How to use components
