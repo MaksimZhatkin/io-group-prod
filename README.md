@@ -12,3 +12,5 @@ She is a test exercise from the company "Io-group".
 * How to deploy static vue project
 * Input customization (checkboxes and sliders)
 * About .sh scripts, how write and start them
+
+**Link: https://maksimzhatkin.github.io/io-group/
